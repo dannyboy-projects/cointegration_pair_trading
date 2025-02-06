@@ -25,6 +25,8 @@ Finally, $\beta$ or the hedge ratio can be found by regressing the price data $y
     * DGN.L  - (0.84) $\cdot$ KGF.L; [Short] Current Level: 221, Target Level: 170, Exit Level: OPEN_TRADE
     * FGP.L - (2.7) $\cdot$ ESP.L; [Short] Current Level: -61, Target Level: -85, Exit Level: OPEN_TRADE
 
+    ![FGP_ESP_plot](demo_results/FGP_ESP.png)
+
 
 ### To Do
 - Implement TLS for determining the hedge ratio
