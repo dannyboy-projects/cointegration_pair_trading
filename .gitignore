@@ -1,0 +1,5 @@
+Fr_results/
+UK_results/
+cointegration_results/
+.venv/
+__pycache__/

@@ -1,0 +1,8 @@
+Pair,Beta
+"('RIO.L_clean.csv', 'LAND.L_clean.csv')",0.06744028398365692
+"('BREE.L_clean.csv', 'BARC.L_clean.csv')",0.8791881930387925
+"('BREE.L_clean.csv', 'DLG.L_clean.csv')",0.2868488714693492
+"('LAND.L_clean.csv', 'DLG.L_clean.csv')",0.27839781127230945
+"('ESP.L_clean.csv', 'FGP.L_clean.csv')",2.702502120382555
+"('ESP.L_clean.csv', 'DLG.L_clean.csv')",1.7144633218878675
+"('DLG.L_clean.csv', 'PSON.L_clean.csv')",3.2321877598234185

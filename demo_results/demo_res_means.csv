@@ -1,0 +1,8 @@
+Pair,mean
+"('RIO.L_clean.csv', 'LAND.L_clean.csv')",234.6509901635496
+"('BREE.L_clean.csv', 'BARC.L_clean.csv')",-143.09398425828903
+"('BREE.L_clean.csv', 'DLG.L_clean.csv')",67.79714305293857
+"('LAND.L_clean.csv', 'DLG.L_clean.csv')",2.6295701626952575
+"('ESP.L_clean.csv', 'FGP.L_clean.csv')",-98.60176274220574
+"('ESP.L_clean.csv', 'DLG.L_clean.csv')",18.316230766497437
+"('DLG.L_clean.csv', 'PSON.L_clean.csv')",326.7247613192886
