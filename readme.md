@@ -2,7 +2,7 @@
 ### Premise
 The basic premise of this approach is too find pairs of assets that pass the Engle-Grainger cointegration test with sufficient confidence interval such that the spread between the two assets can be considered statistically stationary or 'mean-reverting'. 
 
-$ s_t = y_t - \beta x_t$ 
+$s_t = y_t - \beta x_t$ 
 
 Cointegration implies co-movement between two assets that behaves liek a kind of equilibrium over time. With a constant mean, a trading opportunity can arise if the spread as defined below, deviates from the mean at extreme levels i.e.  ± $\sigma$ or ± $2\sigma$. 
 
